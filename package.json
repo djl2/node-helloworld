@@ -1,0 +1,14 @@
+{
+  "name": "node-helloworld",
+  "version": "0.0.0",
+  "description": "NodeJS Hello World",
+  "contributors": [
+    "DJL <DJL@volusion.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djl2/node-helloworld"
+  }
+    "node": ">=0.10.29"
+  }
+}
