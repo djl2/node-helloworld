@@ -1,4 +1,4 @@
-FROM node:0.12-onbuild
+FROM node:0.12-slim
 
 # RUN npm install --production
 
