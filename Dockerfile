@@ -1,6 +1,6 @@
-FROM node:0.12-slim
+FROM node:0.12-onbuild
 
-# RUN npm install --production
+RUN npm install
 
 # replace this with your application's default port
 EXPOSE 8080
