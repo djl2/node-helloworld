@@ -10,6 +10,6 @@
     "url": "https://github.com/djl2/node-helloworld"
   },
     "scripts": {
-    "start": "node server.js"
+    "start": "node http-hello-world.js"
   }
 }
